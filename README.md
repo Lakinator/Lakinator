@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakinator&label=Profile%20views&color=ae00ff&style=flat" alt="lakinator" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakinator" alt="lakinator" /></a> </p>
-
 - 🌱 I’m currently learning **Spring, C#/.NET**
 
 - 👨‍💻 Some of my projects are available at [https://deepstackdriver.dev/](https://deepstackdriver.dev/)
