@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lukas</h1>
-<h3 align="center">A passionate backend Java developer from Germany</h3>
+<h3 align="center">A passionate Java developer from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakinator&label=Profile%20views&color=ae00ff&style=flat" alt="lakinator" /> </p>
 
