@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring, C#/.NET**
 
-- 👨‍💻 Some of my projects are available at [https://deepstackdriver.dev/](https://deepstackdriver.dev/)
+- 👨‍💻 Some of my projects are available at [https://deepstackdriver.de/](https://deepstackdriver.de/)
 
 - 📫 How to reach me: **laki@deepstackdriver.dev**
 
