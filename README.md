@@ -9,7 +9,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://deepstackdriver.de/](https://deepstackdriver.de/)
 
-- 📫 How to reach me: **laki@deepstackdriver.dev**
+- 📫 How to reach me: **dev@lakinator.de**
 
 - ⚡ Fun fact about me: **I originally started programming at age 15 to mod MCPE in JavaScript**
 
