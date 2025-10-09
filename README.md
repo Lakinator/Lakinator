@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Lukas</h1>
-<h3 align="center">Java developer from Germany</h3>
+<h3 align="center">Backend Software Developer from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakinator&label=Profile%20views&color=ae00ff&style=flat" alt="lakinator" /> </p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakinator&show_icons=true&theme=dark&locale=en&layout=compact" alt="lakinator" /></p>
 
-- 🌱 I’m currently learning **Spring, C#/.NET**
+- ☕ Java
 
-- 👨‍💻 Some of my projects are available at [https://deepstackdriver.de/](https://deepstackdriver.de/)
+- 👨‍💻 Design and implementation of innovative cloud solutions in the field of telematics and intelligent load management for electric mobility
 
 - 📫 How to reach me: **dev@lakinator.de**
 
-- ⚡ Fun fact about me: **I originally started programming at age 15 to mod MCPE in JavaScript**
+- ⚡ Fun fact about me: **I originally started programming at age 15 to mod MCPE**
 
 - 🐍 I like classes and objects
 
