@@ -5,7 +5,7 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakinator&show_icons=true&theme=dark&locale=en&layout=compact" alt="lakinator" /></p>
 
-- ☕ Java
+- ☕ Java / Spring Boot
 
 - 👨‍💻 Design and implementation of innovative cloud solutions in the field of telematics and intelligent load management for electric mobility
 
